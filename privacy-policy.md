@@ -15,7 +15,7 @@ We dont employ third-party companies and individuals.
 
 Security
 
-Out app is secure and doesnt harm any users while using our app.
+Our app is secure and doesn't harm any users while using our app.
 
 Children’s Privacy
 
